@@ -5,8 +5,8 @@
 		"annotations": [],
 		"type": "AzureBlobStorage",
 		"typeProperties": {
-			"sasUri": "https://ndeshauatstaahpdat01.blob.core.windows.net/tas/outputADDRESS.csv",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDE4NzgzQTI3LTQ2MDAtNERBMy1CODY0LUFGN0MzRDZCMTA4MV9mNmNlMGNlYi03ZGY4LTQ0MTYtOWU0OS05MTc4ZmZiMWVhYTkiDQp9"
+			"sasUri": "https://ndeshauatstaahpdat01.blob.core.windows.net",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDE4NzgzQTI3LTQ2MDAtNERBMy1CODY0LUFGN0MzRDZCMTA4MV81OGYyMDM4NS02MjJkLTQwZTgtYWU3NC0xMWI3NzYwYTNiZDEiDQp9"
 		}
 	}
 }
