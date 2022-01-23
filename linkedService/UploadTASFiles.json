@@ -5,7 +5,7 @@
 		"annotations": [],
 		"type": "AzureBlobStorage",
 		"typeProperties": {
-			"sasUri": "https://ndeshauatstaahpdat01.blob.core.windows.net/tas/"
+			"sasUri": "https://ndeshauatstaahpdat01.blob.core.windows.net/tas/outputAPPROVAL.csv"
 		}
 	}
 }
