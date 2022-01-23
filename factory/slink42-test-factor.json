@@ -1,0 +1,9 @@
+{
+	"name": "slink42-test-factor",
+	"location": "australiasoutheast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f4798922-388f-4607-9f8f-61bc9c18cee5",
+		"tenantId": "a687a7bf-02db-43df-bcbb-e7a8bda611a2"
+	}
+}
